@@ -3,23 +3,23 @@ docker experiments
 
 
 # Docker Images
-Nginx - nginx
-PHP - php:fpm
-Node
-Python
-Ruby
+* Nginx - nginx
+* PHP - php:fpm
+* Node
+* Python
+* Ruby
 
 
 
 # Tools
-https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting
-https://packagecontrol.io/packages/GitHub%20Markdown%20Snippets
-https://packagecontrol.io/packages/GitHub%20Flavored%20Markdown%20Preview
-https://packagecontrol.io/packages/MarkdownEditing
+* https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting
+* https://packagecontrol.io/packages/GitHub%20Markdown%20Snippets
+* https://packagecontrol.io/packages/GitHub%20Flavored%20Markdown%20Preview
+* https://packagecontrol.io/packages/MarkdownEditing
 
 
 = Useful commands =
-<syntaxhighlight lang="bash">
+```
 # List running containers
 docker ps
 
@@ -37,7 +37,8 @@ docker exec -i -t 665b4a1e17b6 bash
 
 # Attach a shell to a running container called 665b4a1e17b6 for docker < 1.3
 docker attach 665b4a1e17b6
-</syntaxhighlight>
+
+```
 
 = Architecture =
 
