@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Una/Documents/GitHub/docker/README.md",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".ebextensions/01-dns-zone.config",
+			"settings":
+			{
+				"buffer_size": 1336,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Dockerrun.aws.json",
+			"settings":
+			{
+				"buffer_size": 1276,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 466.0,
+		"last_filter": "github",
+		"selected_items":
+		[
+			[
+				"github",
+				"Github: Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Una/Documents/GitHub/docker/multi-lang"
+	],
+	"file_history":
+	[
+		"/C/Users/Una/Documents/GitHub/docker/multi-lang/Dockerfile.aws.json",
+		"/C/Users/Una/Documents/GitHub/docker/multi-lang/proxy/conf.d/default.conf",
+		"/C/Users/Una/Documents/GitHub/docker/multi-lang/php-app/static.html",
+		"/C/Users/Una/Documents/GitHub/docker/multi-lang/php-app/index.php",
+		"/C/Users/Una/Documents/GitHub/ZAPoly/oldSite/home.html",
+		"/C/Users/Una/Documents/My pet.txt",
+		"/C/Users/Una/Dropbox/Docs/An honest, though possibly inapropriate message",
+		"/C/Users/Una/Dropbox/Docs/html/index.html",
+		"/C/Users/Una/Dropbox/Docs/html/style.css",
+		"/C/Users/Una/Documents/GitHub/ZAPoly/index.html",
+		"/E/grub/grub.cfg",
+		"/C/Users/Una/Documents/GitHub/ZAPoly/oldSite/index.html",
+		"/C/Users/Una/Dropbox/Docs/html/index.hrml",
+		"//10.255.5.101/downloads/complete/tv/Attack.On.Titan.S01E04.1080p.BluRay.x264-DeBTViD/win_click2rename.bat",
+		"//10.255.5.101/downloads/complete/tv/Attack.On.Titan.S01E04.1080p.BluRay.x264-DeBTViD/Linux_2rename.sh",
+		"/C/Users/Una/Downloads/who_interview_sample_access_log(1)/access_log",
+		"/C/Users/Una/Downloads/apache-log-parser.php",
+		"/C/Users/Una/Downloads/google0f539c9d36e4e88d.html",
+		"//10.255.5.101/media/movies/Maleficent (2014)/Maleficent2014BR-Rip.avi",
+		"//10.255.5.101/xbmc-share/userdata/sources.xml",
+		"//10.255.5.101/xbmc-share/userdata/advancedsettings.xml",
+		"/C/Users/Una/AppData/Roaming/XBMC/userdata/profiles/Home Network/advancedsettings.xml",
+		"//10.255.5.101/xbmc-share/userdata/RssFeeds.xml",
+		"/C/Users/Una/Dropbox/Docs/Work/Xtranet-Reverse DNS-2014-02-13.txt",
+		"/C/Program Files/OpenVPN/config/xtranetsa.ovpn",
+		"/C/Users/Una/Dropbox/Docs/Dr Azeema Khan",
+		"/C/Users/Una/Dropbox/Docs/poly/draft2.rtf",
+		"/C/Work/inhep/IDSwift 2/Doxyfile",
+		"/C/Work/inhep/IDSwift 2/output/IDSwift2.db",
+		"/C/Work/inhep/IDSwift 2/X64GUI105/GUIX64105.cbproj",
+		"/C/Work/inhep/IDSwift 2/X64GUI106/GUIX64106.cbproj",
+		"/C/Work/inhep/IDSwift 2/X8GUI230/GUIX8230.cbproj",
+		"/C/Work/inhep/IDSwift 2/X16GUI108/GUIX16108.cbproj",
+		"/C/Work/inhep/IDSwift 2/X16GUI200/GUIX16200.cbproj",
+		"/C/Work/inhep/IDSwift 2/X16GUI210/GUIX16210.cbproj",
+		"/C/Work/inhep/IDSwift 2/X16GUI230/GUIX16230.cbproj",
+		"/C/Work/inhep/IDSwift 2/X64GUI108/GUIX64108.cbproj",
+		"/C/Work/inhep/IDSwift 2/X64GUI200/GUIX64200.cbproj",
+		"/C/Work/inhep/IDSwift 2/X64GUI210/GUIX64210.cbproj",
+		"/C/Work/inhep/IDSwift 2/X64GUI230/GUIX64230.cbproj",
+		"/C/Work/inhep/IDSwift 2/X64MGR/MGRX64.cbproj",
+		"/C/Work/inhep/IDSwift 2/X64PCL/PCLX64.cbproj",
+		"/C/Work/inhep/IDSwift 2/Test/X64PCLTest/X64Test.cbproj",
+		"/C/Work/inhep/IDSwift 2/Test/DBIntegrityUnitTest/DBIntegrityUnitTest.cbproj",
+		"/C/Work/inhep/IDSwift 2/Test/Database Handler Test/DCHandlersTests.cbproj",
+		"/C/Work/inhep/IDSwift 2/Test/805PCLTest/Protocol805Test.cbproj",
+		"/C/Work/inhep/IDSwift 2/805SPCL/PCL805S.cbproj",
+		"/C/Work/inhep/IDSwift 2/805SGUI102/GUI805S102.cbproj",
+		"/C/Work/inhep/IDSwift 2/805SGUI100/GUI805S100.cbproj",
+		"/C/Work/inhep/IDSwift 2/805PCL/PCL805.cbproj",
+		"/C/Work/inhep/IDSwift 2/805GUI104/GUI805104.cbproj",
+		"/C/Work/inhep/IDSwift 2/IDSwift2.cbproj",
+		"/C/Work/inhep/IDSwift 2/805GUI104/GUI805.cbproj",
+		"/C/Users/Una/Dropbox/Work/Inhep/IDSwift 2 - Copy/IDSwift2.cbproj",
+		"/C/Users/Una/Dropbox/Work/Inhep/IDSwift 2 - Copy/FormMain.cpp",
+		"/C/Users/Una/Dropbox/Work/Inhep/IDSwift 2 - Copy/IDSwift2.cpp",
+		"/C/Users/Una/Dropbox/Work/Inhep/notes.txt",
+		"/C/Users/Una/Dropbox/Work/Inhep/IDSwift 2 - Copy/Doxyfile",
+		"/C/Users/Una/Dropbox/Docs/Work/Xtranet-Hardy-2014-01-29.txt",
+		"/C/Users/Una/Dropbox/Docs/Work/fax.csv",
+		"/C/Users/Una/Dropbox/Docs/Work/faxload.php",
+		"/C/Users/Una/Downloads/openvpn/xtranetsa.conf",
+		"/C/Program Files/OpenVPN/config/xtranetsa.conf",
+		"/C/Users/Una/Dropbox/Docs/Work/Xtranet-thumbtribe-2014-01-22.txt",
+		"/C/Users/Una/Videos/tiat.sh",
+		"/C/Users/Una/Downloads/mcpi/api/python/mcpi/minecraft.py",
+		"/C/Users/Una/Downloads/mcpi/api/spec/mcpi_protocol_spec.txt",
+		"/C/Users/Una/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Una/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Una/Dropbox/Strangeminds.org/server setup.txt",
+		"/C/Users/Una/Dropbox/Brian/pi mister/pi mister/threadmister.py",
+		"/C/Users/Una/AppData/Roaming/XBMC/userdata/profiles/Network/upnpserver.xml",
+		"/C/Users/Una/AppData/Roaming/XBMC/userdata/profiles/Network/sources.xml",
+		"/C/Users/Una/AppData/Roaming/XBMC/userdata/profiles/Network/advancedsettings.xml",
+		"/C/Users/Una/AppData/Roaming/XBMC/userdata/profiles/Network/guisettings.xml",
+		"/C/Users/Una/AppData/Roaming/XBMC/userdata/profiles/Network/mediasources.xml",
+		"/C/Users/Una/AppData/Roaming/XBMC/userdata/profiles/Network/profiles.xml"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"acntBuilderXE3",
+			"acntBuilderXE",
+			"acntBuilderXE3",
+			"acntBuilderXE2",
+			"acntBuilderXE3",
+			"acntBuilderXE",
+			"acntBuilderXE2",
+			"acntBuilderXE",
+			"acntBuilderXE2",
+			"acntBuilderXE3",
+			"acntBuilderXE2",
+			"acntBuilderXE3",
+			"acntBuilderXE",
+			"XE3",
+			"XE5",
+			"XE3",
+			"XE3_R",
+			"\"",
+			"><b>.*</td>",
+			"                        <td width=\"150\"><span class=\"style2\"><a href=\"",
+			"10.255.5.101"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"acntBuilderXE5",
+			"XE5",
+			"XE5_R",
+			"'",
+			"",
+			"wget -c \"",
+			"wget -c ",
+			"192.168.1.6"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Una/Documents/GitHub/docker/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".ebextensions/01-dns-zone.config",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1335,
+								1335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Dockerrun.aws.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "docker.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
